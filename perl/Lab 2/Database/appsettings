@@ -1,0 +1,4 @@
+DBHOST=localhost
+DBNAME=iti_perl
+DBUSER=root
+DBPASS=admin123
